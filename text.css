@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Bungee+Spice&family=Silkscreen&display=swap');
+
+h1 {
+    text-align: center;
+    font-family: 'Bungee Spice', cursive;}
+
+p {
+    color: white;
+    font-size: larger;
+    font-family: 'Silkscreen', cursive;}
+
+body {
+    background-color: black;
+}
+/* google fonts */
